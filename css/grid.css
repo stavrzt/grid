@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Glyphicons Halflings';
+    src: url('themes/ba/glyphicons') format('png');
+    /*src: url('../fonts/glyphicons-halflings-regular.eot');
+    src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');*/
+}
+
+table {margin: 0 auto;}
+caption{font-weight: bold; text-align: center; color:black;}
+/*td {border:2px groove black; background-color:#ccffcc}
+th {border:2px groove black; background-color:#ffffcc}*/
+button:hover{background-color:#a0d0ff;  border-radius: 10px;}
+p{display: block; margin: 0; float: left; margin: 5px 0px 0px 20px; font-size: 14px;}
